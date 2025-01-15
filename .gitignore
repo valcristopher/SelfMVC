@@ -1,0 +1,76 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+.cab
+.msi
+.msm
+.msp
+
+# Windows Installer cache
+.cab
+.msi
+
+# User-specific files
+.vs
+.vscode
+.idea
+.user
+.userosscache
+.suo
+.userprefs
+
+# User-specific files (Windows)
+_i.c
+_p.c
+
+# Build results
+[Dd]ebug
+[Dd]ebugPublic
+[Dd]istro
+[Dd]evelopment
+[Dd]eployment
+[Dd]ebugBuild
+[Dd]ebugging
+
+# Windows Installer
+.cab
+.msi
+
+# JetBrains Rider
+.idea
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Microsoft Visual Studio for Mac
+.vscode
+
+# Windows Installer
+.cab
+.msi
+
+# Node.js
+node_modules
+
+# NuGet Packages
+.nupkg
+# User-specific files (Windows)
+nuget.config
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts
+
+# .NET build files
+bin
+obj
+
+# VS for Mac
+.vscode
+
+# Windows Installer
+.cab
+.msi
